@@ -268,6 +268,7 @@ Supported by / 支持者:
 * Monine (Xiang Zhou), Front-end Engineer, TanZhou EDU
 * Naomi Harrington, Program Manager, Microsoft
 * Nekocode(Fan Yueng), Software Engineer, Freelancer
+* NightEagle , Software Engineer & Software Architect
 * Nisha Pillai, Software Engineer
 * Nnsinex, Front-end Developer
 * Noah Berman, Backend Engineer, WeTransfer
